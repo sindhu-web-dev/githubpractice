@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 story 2 {
 678910
+=======
+story 1{
+12345
+>>>>>>> Stashed changes
 }
